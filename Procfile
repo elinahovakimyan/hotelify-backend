@@ -1,0 +1,1 @@
+web: gunicorn prudost.wsgi --log-file -
